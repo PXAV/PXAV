@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am PXAV, a spigot and java developer located in Germany.
+- 🔭 I’m currently working on [KelpFramework](https://github.com/PXAV/kelp)
+- 📫 How to reach me:
+  - Discord: `OrigPXAV#2464`
+  - Twitter: @OrigPXAV
+  - I won't become a developer on your server, sorry.
+
 <!--
 **PXAV/PXAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
