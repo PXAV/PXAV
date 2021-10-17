@@ -5,6 +5,8 @@ I am PXAV, a spigot and java developer located in Germany.
 - 📫 How to reach me:
   - Discord: `OrigPXAV#2464`
   - I won't become a developer on your server, sorry.
+- Submissions:
+  - [Visit my Programming Courses on Fiverr](https://fckaf.de/Pzh)
 
 <!--
 **PXAV/PXAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
